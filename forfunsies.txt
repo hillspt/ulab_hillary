@@ -1,0 +1,3 @@
+drink: water
+food spot: nope
+hobby: reading	
